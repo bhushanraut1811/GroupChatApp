@@ -7,3 +7,5 @@ Architecture Pattern followed MVP
 
 Tools and libraries used: Retrofit,Realm etc.
 
+Apk: https://github.com/bhushanraut1811/GroupChatApp/tree/master/app/build/outputs/apk 
+
